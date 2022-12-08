@@ -1,7 +1,7 @@
 cfscrape==1.9.7
 requests==2.21.0
 async-generator==1.10
-certifi==2019.3.9
+certifi==2022.12.7
 cfscrape==1.9.7
 chardet==3.0.4
 cycler==0.10.0
